@@ -22,23 +22,23 @@ Preprocessing, nettoyage des données :  <br/>
 <br />
 <br />
 Valeurs manquantes : <br/>
-<img src="https://imgur.com/RegOWf6" height="80%" width="80%" alt="3"/>
+<img src="https://i.imgur.com/RegOWf6.png" height="80%" width="80%" alt="3"/>
 <br />
 <br />
-<img src="https://imgur.com/X88xWkF" height="80%" width="80%" alt="4"/>
+<img src="https://i.imgur.com/X88xWkF.png" height="80%" width="80%" alt="4"/>
 <br />
 <br />
 Visualisation de notre jeu de donnée :  <br/>
-<img src="https://imgur.com/WmS3FVz" height="80%" width="80%" alt="5"/>
+<img src="https://i.imgur.com/WmS3FVz.png" height="80%" width="80%" alt="5"/>
 <br />
 <br />
-<img src="https://imgur.com/fcYdmPo" height="80%" width="80%" alt="6"/>
+<img src="https://i.imgur.com/fcYdmPo.png" height="80%" width="80%" alt="6"/>
 <br />
 <br />
-<img src="https://imgur.com/j2S9M0r" height="80%" width="80%" alt="7"/>
+<img src="https://i.imgur.com/j2S9M0r.png" height="80%" width="80%" alt="7"/>
 <br />
 <br />
-<img src="https://imgur.com/IOSokZQ" height="80%" width="80%" alt="8"/>
+<img src="https://i.imgur.com/IOSokZQ.png" height="80%" width="80%" alt="8"/>
 <br />
 <br />
 Résultat de notre figure :  <br/>
