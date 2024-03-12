@@ -18,7 +18,7 @@ Importation des packages et premier affichage du dataframe <br/>
 <br />
 <br />
 Preprocessing, nettoyage des données :  <br/>
-<img src="https://imgur.com/DEAdZtA" height="80%" width="80%" alt="2"/>
+<img src="https://i.imgur.com/DEAdZtA.png" height="80%" width="80%" alt="2"/>
 <br />
 <br />
 Valeurs manquantes : <br/>
