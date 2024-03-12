@@ -14,7 +14,7 @@ Le projet avait pour but d'analyser le marché du jeu vidéo. Les studios ou les
 
 <p align="center">
 Importation des packages et premier affichage du dataframe <br/>
-<img src="https://imgur.com/mnQkL2Q.png" height="80%" width="80%" alt="1"/>
+<img src="https://i.imgur.com/rrJNcy5.png" height="80%" width="80%" alt="1"/>
 <br />
 <br />
 Explication des colonnes :  <br/>
