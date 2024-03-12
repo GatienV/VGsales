@@ -17,32 +17,28 @@ Importation des packages et premier affichage du dataframe <br/>
 <img src="https://i.imgur.com/rrJNcy5.png" height="80%" width="80%" alt="1"/>
 <br />
 <br />
-Explication des colonnes :  <br/>
-<img src="https://imgur.com/HZiCXhO.png" height="80%" width="80%" alt="2"/>
+Preprocessing, nettoyage des données :  <br/>
+<img src="https://imgur.com/DEAdZtA" height="80%" width="80%" alt="2"/>
 <br />
 <br />
-Première vérification du jeu de donnée : <br/>
-<img src="https://imgur.com/GpU2ws4.png" height="80%" width="80%" alt="3"/>
+Valeurs manquantes : <br/>
+<img src="https://imgur.com/RegOWf6" height="80%" width="80%" alt="3"/>
 <br />
 <br />
-Vérification des valeurs uniques :  <br/>
-<img src="https://imgur.com/FeMgI13.png" height="80%" width="80%" alt="4"/>
+<img src="https://imgur.com/X88xWkF" height="80%" width="80%" alt="4"/>
 <br />
 <br />
-Traitement de nos uniques :  <br/>
-<img src="https://imgur.com/YcEzPbs.png" height="80%" width="80%" alt="5"/>
+Visualisation de notre jeu de donnée :  <br/>
+<img src="https://imgur.com/WmS3FVz" height="80%" width="80%" alt="5"/>
 <br />
 <br />
-Nettoyage des données pour permettre l'analyse par la suite :  <br/>
-<img src="https://imgur.com/y0Ll0Or.png" height="80%" width="80%" alt="6"/>
+<img src="https://imgur.com/fcYdmPo" height="80%" width="80%" alt="6"/>
 <br />
 <br />
-Vérification de la prise en compte des changements de 'type' :  <br/>
-<img src="https://imgur.com/Nt9HnPc.png" height="80%" width="80%" alt="7"/>
+<img src="https://imgur.com/j2S9M0r" height="80%" width="80%" alt="7"/>
 <br />
 <br />
-Création d'une figure pour visualiser toutes nos variables numériques :  <br/>
-<img src="https://imgur.com/sjQswvJ.png" height="80%" width="80%" alt="8"/>
+<img src="https://imgur.com/IOSokZQ" height="80%" width="80%" alt="8"/>
 <br />
 <br />
 Résultat de notre figure :  <br/>
